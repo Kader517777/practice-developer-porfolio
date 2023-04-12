@@ -1,0 +1,120 @@
+body {
+    margin: 0%;
+
+}
+
+header {
+    display: flex;
+    margin: 0;
+    box-shadow: 10px 10px 10px #808080;
+}
+
+.Button-item {
+    width: 100%;
+
+
+    border-image: 10px 10px red;
+    border-image-slice: 1;
+
+}
+
+.Button-item a {
+    margin: 2%;
+    text-decoration: none;
+    float: right;
+    padding: 10px;
+    font-weight: 600;
+    background-image: linear-gradient(rgb(251, 255, 3), rgb(125, 255, 3));
+}
+
+section {
+    display: flex;
+    margin: auto;
+    width: 86%;
+}
+
+.website-item {
+    width: 25%;
+    background-color: rgb(247, 238, 238);
+    padding: 2%;
+    margin: 1%;
+}
+
+.WordPress-item {
+    width: 25%;
+    background-color: rgb(247, 238, 238);
+    padding: 2%;
+    margin: 1%;
+}
+
+.website-item a {
+    float: right;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 30px;
+
+}
+
+.WordPress-item a {
+    float: right;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 30px;
+
+}
+
+.website-item img {
+    display: block;
+    margin: auto;
+    width: 140px;
+}
+
+.website-item h1 {
+    text-align: center;
+    color: rgb(243, 140, 5);
+
+}
+
+
+.WordPress-item img {
+    display: block;
+    margin: auto;
+    width: 140px;
+}
+
+.WordPress-item h1 {
+    text-align: center;
+    color: rgb(243, 140, 5);
+}
+
+.training-item {
+    width: 25%;
+    background-color: rgb(247, 238, 238);
+    padding: 2%;
+    margin: 1%;
+}
+
+.training-item a {
+    float: right;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.training-item img {
+    display: block;
+    margin: auto;
+    width: 140px;
+}
+
+.training-item h1 {
+    text-align: center;
+    color: rgb(243, 140, 5);
+
+}
